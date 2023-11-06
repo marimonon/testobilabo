@@ -277,7 +277,7 @@ ul {
 .btn::after {
   content: "";
   display: inline-block;
-  background-image: url(/assets/img/arrow-w.svg);
+  background-image: url(./assets/img/arrow-w.svg);
   width: 32px;
   height: 8px;
   margin-right: -30px;
@@ -288,7 +288,7 @@ ul {
   background-color: transparent;
 }
 .btn.-border::after {
-  background-image: url(/assets/img/arrow-b.svg);
+  background-image: url(./assets/img/arrow-b.svg);
 }
 
 .company {
@@ -465,7 +465,7 @@ ul {
 .contact__btn::after {
   content: "";
   display: inline-block;
-  background-image: url(/assets/img/arrow-w.svg);
+  background-image: url(./assets/img/arrow-w.svg);
   width: 32px;
   height: 8px;
   position: absolute;
